@@ -10,7 +10,7 @@ This course repository included projects on predictions, Regression, Hypothesis 
 
 ***
 
-**Project 1: TMDb Movie Analysis** 
+**Project 1: TMDb Movie Analysis** https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/tree/main/Project%201%20_TMDb%20Movie%20Data%20Analysis
 
 Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie?
 
