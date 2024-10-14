@@ -16,7 +16,8 @@ Analysing more than 10,000 TMDb movies and getting the answers to - Which actor(
 
 ***
 
-[**Project 2: Analyze A/B Test Results**]
+**Project 2: Analyze A/B Test Results**
+
 For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
 
 ***
