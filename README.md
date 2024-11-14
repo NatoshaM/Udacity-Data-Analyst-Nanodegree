@@ -27,3 +27,16 @@ What is the correlation between the average runtime of movies and the passage of
 For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
 
 ***
+
+**Project 3: R Programming**
+
+Using R for statistical analysis
+
+***
+
+**Project 4: Datawrangling**
+
+In this project, you will apply the skills you acquired in the course to gather and wrangle real-world data with two datasets of your choice.
+
+You will retrieve and extract the data, assess the data programmatically and visually, accross elements of data quality and structure, and implement a cleaning strategy for the data. You will then store the updated data into your selected database/data store, combine the data, and answer a research question with the datasets.
+
