@@ -24,7 +24,8 @@ What is the correlation between the average runtime of movies and the passage of
 
 [**Project 2: Analyze A/B Test Results**](https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202_%20AB%20Testing/Analyze_ab_test_results_notebook_new.ipynb)
 
-For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
+A/B tests are very commonly performed by data analysts and data scientists. For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. The goal is to  help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+
 
 ***
 
