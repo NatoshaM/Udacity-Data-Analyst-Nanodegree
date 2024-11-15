@@ -42,12 +42,11 @@ In this project, you will apply the skills you acquired in the course to gather 
 You will retrieve and extract the data, assess the data programmatically and visually, accross elements of data quality and structure, and implement a cleaning strategy for the data. You will then store the updated data into your selected database/data store, combine the data, and answer a research question with the datasets.
 
 ***
-**Project 5: Data Visualizations using Tableau**
 
-The goal in this project is to create visualizations and Dashboards in Tableau to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+**Project 5: Machine Learning**
 
 ***
 
-**Project 6: Machine Learning**
+**Project 6: Data Visualizations using Tableau**
 
-Using R for statistical analysis
+The goal in this project is to create visualizations and Dashboards in Tableau to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
