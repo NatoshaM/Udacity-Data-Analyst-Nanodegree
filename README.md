@@ -48,6 +48,6 @@ The goal in this project is to create visualizations and Dashboards in Tableau t
 
 ***
 
-**Project 5: Machine Learning**
+**Project 6: Machine Learning**
 
 Using R for statistical analysis
