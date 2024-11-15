@@ -1,0 +1,598 @@
+experience_level,employment_type,jobs,salary_in_usd,work_setting,company_location,company_size
+Mid-level,Full-time,Data Scientist,79833,In-person,DE,L
+Senior,Full-time,Machine Learning and AI,260000,In-person,JP,S
+Senior,Full-time,Data Engineering,109024,Hybrid,GB,M
+Mid-level,Full-time,Data Analysis,20000,In-person,HN,S
+Senior,Full-time,Machine Learning and AI,150000,Hybrid,US,L
+Entry-level,Full-time,Data Analysis,72000,Remote,US,L
+Senior,Full-time,Data Science and Research,190000,Remote,US,S
+Mid-level,Full-time,Data Scientist,35735,Hybrid,HU,L
+Mid-level,Full-time,BI and Visualization,135000,Remote,US,L
+Senior,Full-time,Data Engineering,125000,Hybrid,NZ,S
+Entry-level,Full-time,Data Scientist,51321,In-person,FR,S
+Mid-level,Full-time,Data Scientist,40481,In-person,IN,L
+Entry-level,Full-time,Data Scientist,39916,In-person,FR,M
+Mid-level,Full-time,Data Analysis,87000,Remote,US,L
+Mid-level,Full-time,Data Analysis,85000,Remote,US,L
+Mid-level,Full-time,Data Analysis,8000,Hybrid,PK,L
+Entry-level,Full-time,Data Engineering,41689,Remote,JP,S
+Senior,Full-time,Data Engineering,114047,Remote,GB,S
+Entry-level,Full-time,Data Architecture and Modeling,5707,Hybrid,IN,M
+Mid-level,Full-time,Data Engineering,56000,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,43331,In-person,CN,M
+Mid-level,Full-time,Data Analysis,6072,Remote,IN,L
+Senior,Full-time,Data Engineering,47899,Hybrid,GR,L
+Mid-level,Full-time,BI and Visualization,98000,In-person,US,M
+Mid-level,Full-time,Data Science and Research,115000,In-person,AE,L
+Entry-level,Full-time,Data Science and Research,42000,Hybrid,NL,L
+Senior,Full-time,Data Engineering,33511,In-person,MX,S
+Entry-level,Contract,BI and Visualization,100000,Remote,US,L
+Senior,Full-time,Leadership and Management,117104,Hybrid,CA,L
+Mid-level,Full-time,Leadership and Management,59303,Remote,DE,S
+Entry-level,Full-time,Data Engineering,70000,Remote,US,L
+Senior,Full-time,Data Scientist,68428,Remote,US,L
+Mid-level,Full-time,Data Analysis,46759,Hybrid,FR,L
+Mid-level,Full-time,Data Engineering,74130,Hybrid,AT,L
+Mid-level,Full-time,Data Architecture and Modeling,103000,Remote,US,L
+Entry-level,Full-time,Machine Learning and AI,250000,Hybrid,US,L
+Entry-level,Full-time,Data Analysis,10000,Remote,NG,S
+Entry-level,Full-time,Machine Learning and AI,138000,Remote,US,S
+Mid-level,Full-time,Data Scientist,45760,Remote,US,S
+Executive,Full-time,Leadership and Management,79833,Hybrid,ES,L
+Mid-level,Full-time,Machine Learning and AI,50180,In-person,PT,M
+Mid-level,Full-time,Data Engineering,106000,Remote,US,L
+Mid-level,Full-time,Data Engineering,112872,Hybrid,GB,L
+Entry-level,Part-time,Machine Learning and AI,15966,Remote,DE,S
+Mid-level,Full-time,Data Scientist,76958,Remote,GB,S
+Senior,Full-time,Data Engineering,188000,Remote,US,L
+Mid-level,Full-time,Data Scientist,105000,Remote,US,L
+Mid-level,Full-time,Data Engineering,70139,Hybrid,FR,L
+Entry-level,Full-time,Data Analysis,6072,In-person,IN,S
+Entry-level,Full-time,Data Analysis,91000,Remote,US,L
+Entry-level,Full-time,Machine Learning and AI,45896,Hybrid,DK,S
+Entry-level,Full-time,Data Engineering,54742,Remote,DE,L
+Senior,Freelance,Computer Vision,60000,Remote,US,S
+Senior,Full-time,Data Science and Research,148261,Remote,DE,M
+Mid-level,Full-time,Data Scientist,38776,Remote,ES,M
+Mid-level,Full-time,Data Scientist,118000,Remote,US,M
+Senior,Full-time,Data Scientist,120000,Hybrid,US,L
+Mid-level,Full-time,Data Scientist,138350,Remote,US,M
+Mid-level,Full-time,Data Engineering,110000,Remote,US,L
+Mid-level,Full-time,Data Engineering,130800,Remote,US,M
+Entry-level,Part-time,Data Scientist,21669,Hybrid,IT,S
+Senior,Full-time,Machine Learning and AI,45618,Remote,HR,S
+Entry-level,Full-time,Data Scientist,62726,Hybrid,DE,S
+Entry-level,Full-time,Data Scientist,49268,In-person,DE,S
+Senior,Full-time,Leadership and Management,190200,Remote,US,M
+Entry-level,Full-time,Data Scientist,105000,Remote,US,S
+Senior,Full-time,Data Scientist,91237,In-person,AT,S
+Mid-level,Full-time,Data Scientist,62726,Hybrid,LU,S
+Mid-level,Full-time,Data Scientist,42197,Hybrid,FR,S
+Entry-level,Full-time,Data Science and Research,82528,Hybrid,GB,L
+Executive,Full-time,BI and Visualization,150000,Remote,US,L
+Executive,Full-time,Data Quality and Operations,235000,Remote,US,L
+Senior,Full-time,Data Scientist,53192,Hybrid,FR,L
+Mid-level,Full-time,BI and Visualization,100000,Remote,US,M
+Mid-level,Part-time,Computer Vision,5409,Hybrid,IN,M
+Mid-level,Contract,Machine Learning and AI,270000,Remote,US,L
+Entry-level,Full-time,Data Analysis,80000,Remote,US,M
+Senior,Full-time,Data Engineering,79197,Remote,DE,L
+Mid-level,Full-time,Data Engineering,140000,Remote,US,L
+Mid-level,Full-time,Data Science and Research,54238,Hybrid,CA,L
+Mid-level,Full-time,Machine Learning and AI,47282,Remote,ES,S
+Executive,Full-time,Data Science and Research,153667,Remote,PL,L
+Mid-level,Full-time,Data Engineering,28476,Remote,PL,L
+Entry-level,Full-time,Data Analysis,59102,Hybrid,FR,M
+Mid-level,Full-time,Data Engineering,110000,Remote,US,L
+Senior,Full-time,Data Analysis,170000,Remote,US,L
+Senior,Full-time,Data Analysis,80000,Remote,US,S
+Senior,Full-time,Data Analysis,88654,Remote,DK,L
+Entry-level,Full-time,Data Architecture and Modeling,76833,Remote,DE,S
+Mid-level,Full-time,Data Analysis,19609,Remote,IN,L
+Senior,Full-time,Data Engineering,276000,In-person,US,L
+Entry-level,Full-time,Data Scientist,29751,Hybrid,IN,L
+Mid-level,Full-time,Cloud and Database,89294,Hybrid,SG,L
+Entry-level,Part-time,Machine Learning and AI,12000,Remote,US,S
+Entry-level,Full-time,Computer Vision,70000,Remote,US,M
+Mid-level,Full-time,Computer Vision,95746,Remote,US,S
+Mid-level,Full-time,Data Analysis,75000,In-person,US,L
+Senior,Full-time,Data Engineering,150000,Remote,US,L
+Mid-level,Full-time,BI and Visualization,36259,Hybrid,US,L
+Mid-level,Full-time,Data Analysis,62000,In-person,US,L
+Mid-level,Full-time,Data Scientist,73000,In-person,US,L
+Mid-level,Full-time,Data Analysis,51519,Hybrid,GB,L
+Mid-level,Full-time,Data Science and Research,187442,Remote,CA,L
+Senior,Full-time,Data Engineering,115000,Remote,US,S
+Senior,Full-time,Data Engineering,150000,Remote,US,M
+Entry-level,Full-time,Data Engineering,30428,Remote,IN,L
+Senior,Full-time,Machine Learning and AI,94564,Hybrid,DE,L
+Senior,Full-time,Data Engineering,113476,Remote,GB,M
+Senior,Full-time,Data Engineering,103160,Remote,GB,S
+Entry-level,Part-time,Machine Learning and AI,12000,Remote,US,M
+Mid-level,Full-time,Data Engineering,45391,Remote,NL,L
+Entry-level,Full-time,Machine Learning and AI,225000,Remote,US,L
+Mid-level,Full-time,Data Scientist,50000,Remote,NG,L
+Mid-level,Full-time,Data Science and Research,40189,Remote,GR,M
+Entry-level,Full-time,Data Analysis,90000,Remote,US,S
+Mid-level,Full-time,Data Engineering,200000,Remote,US,L
+Mid-level,Full-time,Data Engineering,60000,Hybrid,RO,M
+Senior,Full-time,Data Engineering,200000,Remote,US,M
+Entry-level,Full-time,Data Analysis,50000,Remote,US,M
+Entry-level,Full-time,Data Science and Research,110037,In-person,GB,L
+Entry-level,Part-time,Data Analysis,10354,Hybrid,ES,M
+Mid-level,Full-time,Data Science and Research,151000,Remote,US,L
+Senior,Full-time,Machine Learning and AI,120000,Hybrid,US,S
+Mid-level,Full-time,Data Scientist,9466,In-person,IN,S
+Entry-level,Full-time,Machine Learning and AI,20000,Remote,IN,S
+Senior,Full-time,Data Science and Research,40570,Hybrid,IN,L
+Entry-level,Full-time,Machine Learning and AI,100000,Hybrid,IQ,S
+Entry-level,Full-time,Data Scientist,49646,Hybrid,FR,M
+Mid-level,Full-time,Machine Learning and AI,38400,Remote,US,M
+Senior,Full-time,Computer Vision,24000,Remote,BR,M
+Entry-level,Full-time,Data Scientist,100000,In-person,US,S
+Mid-level,Full-time,Data Analysis,90000,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,63711,Hybrid,JP,S
+Mid-level,Full-time,Machine Learning and AI,77364,Hybrid,JP,S
+Senior,Full-time,Data Science and Research,220000,In-person,US,L
+Entry-level,Full-time,Data Scientist,80000,Remote,US,M
+Mid-level,Full-time,Data Analysis,135000,Remote,US,L
+Senior,Full-time,Leadership and Management,240000,In-person,US,L
+Senior,Full-time,Leadership and Management,150000,In-person,US,L
+Mid-level,Full-time,Data Scientist,82500,Remote,US,S
+Mid-level,Full-time,Data Engineering,100000,Remote,US,L
+Senior,Full-time,Machine Learning and AI,82744,Hybrid,BE,M
+Mid-level,Full-time,Data Science and Research,62649,Hybrid,FR,M
+Mid-level,Full-time,Data Engineering,90000,Remote,US,L
+Senior,Full-time,Leadership and Management,153000,Remote,US,L
+Senior,Full-time,Cloud and Database,160000,Remote,US,S
+Senior,Full-time,Data Science and Research,168000,In-person,JP,S
+Mid-level,Full-time,Data Scientist,150000,Remote,US,M
+Mid-level,Full-time,Data Scientist,75774,Remote,CA,L
+Entry-level,Full-time,Data Scientist,13400,Remote,UA,L
+Senior,Full-time,Leadership and Management,144000,Remote,US,L
+Senior,Full-time,Data Science and Research,127221,Hybrid,CA,L
+Mid-level,Full-time,Data Scientist,119059,Remote,IL,M
+Senior,Full-time,Leadership and Management,120000,Remote,US,M
+Entry-level,Full-time,Machine Learning and AI,125000,Remote,US,S
+Executive,Full-time,Data Quality and Operations,230000,Hybrid,RU,L
+Executive,Full-time,Data Science and Research,85000,In-person,RU,M
+Mid-level,Full-time,Data Engineering,28369,Hybrid,MT,L
+Entry-level,Full-time,Data Architecture and Modeling,63831,Hybrid,DE,L
+Executive,Full-time,Data Science and Research,130026,Hybrid,DE,M
+Senior,Full-time,Data Management and Strategy,165000,Remote,US,L
+Entry-level,Full-time,Data Engineering,80000,Remote,US,L
+Executive,Full-time,Data Science and Research,250000,In-person,US,L
+Entry-level,Full-time,BI and Visualization,55000,Hybrid,US,S
+Mid-level,Full-time,Data Architecture and Modeling,150000,Remote,US,L
+Mid-level,Full-time,Data Architecture and Modeling,170000,Remote,US,L
+Mid-level,Full-time,Data Engineering,82528,Remote,GB,L
+Entry-level,Full-time,Data Analysis,60000,Remote,US,S
+Senior,Full-time,Data Science and Research,235000,Remote,US,L
+Senior,Full-time,Data Science and Research,60757,Hybrid,PT,L
+Senior,Full-time,Leadership and Management,174000,Remote,US,L
+Mid-level,Full-time,Data Scientist,2859,In-person,MX,S
+Mid-level,Full-time,Data Scientist,40038,Remote,CL,L
+Entry-level,Full-time,Machine Learning and AI,81000,Hybrid,US,S
+Mid-level,Full-time,Data Scientist,5679,Remote,US,S
+Mid-level,Full-time,Data Engineering,22611,In-person,IN,L
+Mid-level,Full-time,Data Scientist,90734,Hybrid,DE,L
+Mid-level,Full-time,Data Engineering,26005,In-person,US,L
+Senior,Full-time,Data Analysis,61896,Hybrid,GB,L
+Mid-level,Freelance,Machine Learning and AI,12000,Hybrid,PK,M
+Mid-level,Full-time,Data Engineering,4000,Remote,IR,M
+Senior,Full-time,Data Engineering,50000,Remote,GB,M
+Executive,Full-time,Data Architecture and Modeling,69741,Remote,ES,S
+Senior,Full-time,Data Engineering,76833,Hybrid,GB,S
+Mid-level,Full-time,Machine Learning and AI,74000,Hybrid,JP,S
+Senior,Full-time,Leadership and Management,152000,Remote,FR,L
+Entry-level,Full-time,Machine Learning and AI,21844,Hybrid,CO,M
+Mid-level,Full-time,Data Engineering,18000,In-person,MD,S
+Senior,Full-time,Leadership and Management,174000,Remote,US,L
+Senior,Full-time,Data Science and Research,96113,Hybrid,CA,L
+Mid-level,Full-time,Data Scientist,147000,Hybrid,US,L
+Entry-level,Full-time,BI and Visualization,9272,Remote,KE,S
+Senior,Full-time,Machine Learning and AI,24342,Remote,IN,L
+Senior,Full-time,Leadership and Management,54094,Hybrid,US,L
+Entry-level,Full-time,Data Architecture and Modeling,90000,Remote,US,S
+Mid-level,Full-time,Data Scientist,61467,Hybrid,AT,M
+Senior,Full-time,Machine Learning and AI,195000,Remote,US,M
+Mid-level,Full-time,Data Scientist,37825,Remote,ES,L
+Senior,Full-time,Data Science and Research,50000,Remote,US,S
+Mid-level,Full-time,Data Scientist,160000,Remote,US,L
+Mid-level,Full-time,Data Scientist,12901,In-person,BR,S
+Senior,Full-time,Machine Learning and AI,200000,Remote,US,L
+Senior,Full-time,Data Engineering,165000,In-person,US,M
+Mid-level,Freelance,Data Engineering,20000,In-person,US,L
+Senior,Full-time,Leadership and Management,120000,In-person,US,L
+Mid-level,Full-time,Machine Learning and AI,24823,Hybrid,SI,L
+Mid-level,Full-time,Data Science and Research,56738,Hybrid,FR,S
+Mid-level,Full-time,Data Engineering,66022,Hybrid,GB,S
+Entry-level,Full-time,Data Engineering,5882,In-person,CH,L
+Entry-level,Full-time,Machine Learning and AI,24823,Hybrid,DE,M
+Senior,Full-time,Data Engineering,185000,Remote,US,L
+Entry-level,Part-time,Computer Vision,28609,Hybrid,DK,S
+Mid-level,Full-time,Data Scientist,90734,Hybrid,DE,L
+Mid-level,Full-time,Machine Learning and AI,88654,Remote,BE,M
+Senior,Full-time,Leadership and Management,140000,Remote,US,L
+Mid-level,Full-time,Machine Learning and AI,46597,Remote,PL,L
+Mid-level,Full-time,Data Scientist,116914,Hybrid,GB,L
+Mid-level,Full-time,Data Scientist,33808,In-person,IN,M
+Mid-level,Full-time,Data Scientist,56256,Hybrid,GB,L
+Senior,Full-time,Machine Learning and AI,225000,Remote,CA,L
+Senior,Full-time,Data Scientist,87738,Remote,CA,S
+Mid-level,Full-time,Data Scientist,88654,Hybrid,DE,L
+Senior,Full-time,Data Scientist,135000,In-person,US,L
+Senior,Full-time,Data Analysis,71786,Remote,CA,M
+Entry-level,Full-time,Data Engineering,16228,Remote,IN,L
+Senior,Full-time,Machine Learning and AI,256000,Remote,US,S
+Senior,Full-time,Data Engineering,200000,Remote,US,L
+Senior,Full-time,Data Analysis,200000,Remote,US,L
+Mid-level,Full-time,Data Architecture and Modeling,180000,Remote,US,L
+Mid-level,Full-time,Data Science and Research,110000,In-person,US,S
+Mid-level,Full-time,Data Science and Research,63810,Remote,CA,M
+Mid-level,Full-time,Data Scientist,46809,Remote,ES,M
+Entry-level,Full-time,Data Scientist,4000,In-person,VN,M
+Entry-level,Full-time,Data Engineering,21637,Hybrid,IN,M
+Senior,Full-time,Data Scientist,103691,Remote,CA,L
+Mid-level,Full-time,Data Analysis,80000,Remote,US,L
+Mid-level,Full-time,Data Engineering,110000,Remote,US,L
+Senior,Full-time,Data Scientist,165000,Remote,US,L
+Entry-level,Full-time,Machine Learning and AI,18053,Remote,AS,S
+Mid-level,Full-time,Data Engineering,72212,Hybrid,GB,L
+Entry-level,Full-time,Data Scientist,36643,Hybrid,FR,L
+Mid-level,Full-time,Data Engineering,12103,In-person,TR,M
+Senior,Full-time,Data Engineering,96282,Hybrid,GB,L
+Senior,Full-time,Data Analysis,170000,Remote,US,M
+Mid-level,Full-time,Data Scientist,115000,Hybrid,US,L
+Entry-level,Full-time,Data Scientist,90000,Remote,US,S
+Entry-level,Full-time,Data Scientist,28399,Remote,IN,M
+Mid-level,Full-time,Data Analysis,93000,Remote,US,L
+Senior,Full-time,Data Architecture and Modeling,99703,Hybrid,CA,M
+Mid-level,Full-time,Data Engineering,200000,Remote,US,L
+Senior,Full-time,Data Science and Research,173762,Remote,DE,M
+Senior,Full-time,Machine Learning and AI,185000,Hybrid,US,L
+Executive,Full-time,Data Science and Research,141846,In-person,DE,L
+Mid-level,Full-time,Data Scientist,130000,Hybrid,US,L
+Senior,Full-time,Data Analysis,63831,Hybrid,DE,L
+Mid-level,Full-time,Data Scientist,16904,Remote,IN,S
+Senior,Full-time,Machine Learning and AI,66265,In-person,IN,L
+Mid-level,Full-time,Data Scientist,25532,Remote,DE,S
+Senior,Full-time,Data Engineering,160000,Hybrid,US,S
+Mid-level,Full-time,Data Engineering,93150,In-person,US,M
+Mid-level,Full-time,Data Engineering,111775,In-person,US,M
+Mid-level,Full-time,Data Engineering,28016,Remote,TR,M
+Entry-level,Full-time,Data Engineering,65013,Hybrid,DE,M
+Entry-level,Full-time,Data Engineering,72500,Remote,US,L
+Senior,Full-time,Computer Vision,18907,In-person,BR,M
+Entry-level,Full-time,Data Architecture and Modeling,76833,In-person,DE,L
+Entry-level,Full-time,Machine Learning and AI,85000,Remote,DE,S
+Senior,Full-time,Data Scientist,77684,Hybrid,FR,M
+Entry-level,Full-time,Data Scientist,100000,Remote,US,M
+Entry-level,Full-time,Data Scientist,58000,Hybrid,US,L
+Senior,Full-time,Machine Learning and AI,55000,Remote,ES,L
+Senior,Full-time,Data Scientist,20171,Hybrid,TR,L
+Entry-level,Full-time,BI and Visualization,59102,Remote,LU,L
+Mid-level,Full-time,Data Engineering,112000,Remote,US,L
+Entry-level,Full-time,Data Science and Research,100000,In-person,CN,L
+Mid-level,Part-time,Data Engineering,69741,Remote,NL,L
+Senior,Contract,Data Science and Research,105000,Remote,US,M
+Mid-level,Full-time,Data Science and Research,69999,Hybrid,CZ,L
+Senior,Full-time,Leadership and Management,94665,Hybrid,IN,L
+Senior,Full-time,Data Quality and Operations,102839,Remote,SI,L
+Mid-level,Full-time,Data Scientist,109000,Hybrid,US,L
+Mid-level,Full-time,Machine Learning and AI,51064,Hybrid,IT,L
+Senior,Full-time,Data Engineering,135000,Remote,US,M
+Senior,Full-time,Data Analysis,155000,Remote,US,M
+Senior,Full-time,Data Analysis,120600,Remote,US,M
+Mid-level,Full-time,Data Scientist,130000,In-person,US,M
+Mid-level,Full-time,Data Scientist,90000,In-person,US,M
+Mid-level,Full-time,Data Engineering,170000,Remote,US,M
+Mid-level,Full-time,Data Engineering,150000,Remote,US,M
+Senior,Full-time,Data Analysis,102100,Remote,US,M
+Senior,Full-time,Data Analysis,84900,Remote,US,M
+Senior,Full-time,Data Scientist,136620,Remote,US,M
+Senior,Full-time,Data Scientist,99360,Remote,US,M
+Senior,Full-time,Data Scientist,117789,In-person,GB,M
+Senior,Full-time,Data Scientist,104702,In-person,GB,M
+Senior,Full-time,Data Scientist,146000,Remote,US,M
+Senior,Full-time,Data Scientist,123000,Remote,US,M
+Entry-level,Full-time,Data Engineering,52351,Remote,GB,M
+Senior,Full-time,Data Analysis,99000,In-person,US,M
+Senior,Full-time,Data Analysis,116000,In-person,US,M
+Mid-level,Full-time,Data Analysis,106260,In-person,US,M
+Mid-level,Full-time,Data Analysis,126500,In-person,US,M
+Executive,Full-time,Data Engineering,242000,Remote,US,M
+Executive,Full-time,Data Engineering,200000,Remote,US,M
+Mid-level,Full-time,Data Scientist,65438,In-person,GB,M
+Mid-level,Full-time,Data Scientist,39263,In-person,GB,M
+Mid-level,Full-time,Data Engineering,78526,In-person,GB,M
+Mid-level,Full-time,Data Engineering,52351,In-person,GB,M
+Senior,Full-time,Data Scientist,165220,Remote,US,M
+Entry-level,Full-time,Data Engineering,45807,Remote,GB,M
+Senior,Full-time,Data Scientist,120160,Remote,US,M
+Senior,Full-time,Data Analysis,90320,Remote,US,M
+Senior,Full-time,Data Engineering,181940,In-person,US,M
+Senior,Full-time,Data Engineering,132320,In-person,US,M
+Senior,Full-time,Data Engineering,220110,In-person,US,M
+Senior,Full-time,Data Engineering,160080,In-person,US,M
+Senior,Full-time,Data Scientist,180000,In-person,US,L
+Senior,Full-time,Data Scientist,120000,In-person,US,L
+Senior,Full-time,Data Analysis,124190,Remote,US,M
+Executive,Full-time,Data Analysis,130000,Remote,US,M
+Executive,Full-time,Data Analysis,110000,Remote,US,M
+Senior,Full-time,Data Analysis,170000,Remote,US,M
+Mid-level,Full-time,Data Analysis,115500,Remote,US,M
+Senior,Full-time,Data Analysis,112900,Remote,US,M
+Senior,Full-time,Data Analysis,90320,Remote,US,M
+Senior,Full-time,Data Analysis,112900,Remote,US,M
+Senior,Full-time,Data Analysis,90320,Remote,US,M
+Senior,Full-time,Data Engineering,165400,Remote,US,M
+Senior,Full-time,Data Engineering,132320,Remote,US,M
+Mid-level,Full-time,Data Analysis,167000,Remote,US,M
+Senior,Full-time,Data Engineering,243900,Remote,US,M
+Senior,Full-time,Data Analysis,136600,Remote,US,M
+Senior,Full-time,Data Analysis,109280,Remote,US,M
+Senior,Full-time,Data Engineering,128875,Remote,US,M
+Senior,Full-time,Data Engineering,93700,Remote,US,M
+Executive,Full-time,Data Science and Research,224000,Remote,US,M
+Executive,Full-time,Data Science and Research,167875,Remote,US,M
+Executive,Full-time,Data Analysis,175000,Remote,US,M
+Senior,Full-time,Data Engineering,156600,Remote,US,M
+Senior,Full-time,Data Engineering,108800,In-person,US,M
+Senior,Full-time,Data Scientist,95550,In-person,US,M
+Senior,Full-time,Data Engineering,113000,In-person,US,L
+Senior,Full-time,Data Analysis,135000,Remote,US,M
+Senior,Full-time,Leadership and Management,161342,Remote,US,M
+Senior,Full-time,Leadership and Management,137141,Remote,US,M
+Senior,Full-time,Data Scientist,167000,Remote,US,M
+Senior,Full-time,Data Scientist,123000,Remote,US,M
+Senior,Full-time,Data Engineering,78526,In-person,GB,M
+Senior,Full-time,Data Engineering,65438,In-person,GB,M
+Senior,Full-time,Data Scientist,150000,In-person,US,M
+Senior,Full-time,Data Scientist,211500,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,192400,Remote,CA,M
+Senior,Full-time,Data Architecture and Modeling,90700,Remote,CA,M
+Senior,Full-time,Data Analysis,130000,Remote,CA,M
+Senior,Full-time,Data Analysis,61300,Remote,CA,M
+Senior,Full-time,Data Analysis,130000,Remote,CA,M
+Senior,Full-time,Data Analysis,61300,Remote,CA,M
+Senior,Full-time,Data Engineering,160000,In-person,US,L
+Senior,Full-time,Data Scientist,138600,Remote,US,M
+Senior,Full-time,Data Engineering,136000,In-person,US,M
+Mid-level,Full-time,Data Analysis,58000,In-person,US,S
+Executive,Full-time,Data Analysis,135000,Remote,US,M
+Senior,Full-time,Data Scientist,170000,Remote,US,M
+Senior,Full-time,Data Scientist,123000,Remote,US,M
+Senior,Full-time,Machine Learning and AI,189650,In-person,US,M
+Senior,Full-time,Machine Learning and AI,164996,In-person,US,M
+Mid-level,Full-time,Data Architecture and Modeling,54957,In-person,GR,M
+Mid-level,Full-time,Data Architecture and Modeling,54957,In-person,GR,M
+Executive,Full-time,Data Engineering,118187,Remote,CA,S
+Senior,Full-time,Data Analysis,132000,In-person,US,M
+Senior,Full-time,Data Engineering,165400,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,208775,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,147800,Remote,US,M
+Senior,Full-time,Data Engineering,136994,Remote,US,M
+Senior,Full-time,Data Engineering,101570,Remote,US,M
+Senior,Full-time,Data Analysis,128875,Remote,US,M
+Senior,Full-time,Data Analysis,93700,Remote,US,M
+Executive,Full-time,Machine Learning and AI,79039,Hybrid,IN,L
+Senior,Full-time,Data Engineering,132320,Remote,US,M
+Entry-level,Full-time,Machine Learning and AI,37300,Remote,GB,L
+Senior,Full-time,Data Analysis,164000,In-person,US,M
+Senior,Full-time,Data Engineering,155000,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,124333,In-person,GB,M
+Mid-level,Full-time,Machine Learning and AI,98158,In-person,GB,M
+Mid-level,Full-time,Machine Learning and AI,120000,In-person,US,M
+Senior,Full-time,Data Analysis,112900,Remote,US,M
+Senior,Full-time,Data Analysis,90320,Remote,US,M
+Senior,Full-time,Leadership and Management,145000,Remote,US,M
+Senior,Full-time,Leadership and Management,105400,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,87932,Remote,DE,M
+Mid-level,Full-time,Data Engineering,117789,In-person,GB,M
+Senior,Full-time,Data Scientist,215300,Remote,US,L
+Senior,Full-time,Data Scientist,158200,Remote,US,L
+Senior,Full-time,Data Engineering,209100,Remote,US,L
+Senior,Full-time,Data Engineering,154600,Remote,US,L
+Senior,Full-time,Data Analysis,115934,In-person,US,M
+Senior,Full-time,Data Analysis,81666,In-person,US,M
+Senior,Full-time,Data Engineering,175000,Remote,US,M
+Mid-level,Full-time,Data Engineering,98158,In-person,GB,M
+Mid-level,Full-time,Data Analysis,58000,In-person,US,S
+Senior,Full-time,Data Engineering,183600,Remote,US,L
+Mid-level,Full-time,Data Analysis,52351,Remote,GB,M
+Senior,Full-time,Data Scientist,180000,Remote,US,M
+Mid-level,Full-time,Data Scientist,71982,In-person,GB,M
+Mid-level,Full-time,Data Scientist,45807,In-person,GB,M
+Mid-level,Full-time,Data Engineering,65949,Remote,GR,M
+Mid-level,Full-time,Data Engineering,49461,Remote,GR,M
+Mid-level,Full-time,Data Engineering,78526,Remote,GB,M
+Mid-level,Full-time,Data Engineering,58894,Remote,GB,M
+Senior,Full-time,Data Scientist,260000,Remote,US,M
+Senior,Full-time,Data Science and Research,60000,Remote,MX,L
+Mid-level,Full-time,Data Engineering,63900,In-person,US,M
+Mid-level,Full-time,Machine Learning and AI,160000,Remote,US,L
+Mid-level,Full-time,Machine Learning and AI,112300,Remote,US,L
+Mid-level,Full-time,Leadership and Management,241000,Remote,US,M
+Mid-level,Full-time,Leadership and Management,159000,Remote,US,M
+Senior,Full-time,Data Scientist,180000,In-person,US,M
+Senior,Full-time,Data Scientist,80000,In-person,US,M
+Mid-level,Full-time,Data Engineering,82900,In-person,US,M
+Senior,Full-time,Data Engineering,100800,Remote,US,L
+Mid-level,Full-time,Data Engineering,49461,Remote,ES,M
+Senior,Full-time,Data Scientist,140400,In-person,US,L
+Mid-level,Full-time,Data Analysis,39263,Remote,GB,M
+Mid-level,Full-time,Data Analysis,43966,Remote,ES,M
+Mid-level,Full-time,Data Analysis,32974,Remote,ES,M
+Mid-level,Full-time,Data Engineering,87932,Remote,ES,M
+Mid-level,Full-time,Data Engineering,76940,Remote,ES,M
+Mid-level,Full-time,Data Engineering,104702,Remote,GB,M
+Mid-level,Full-time,Data Engineering,91614,Remote,GB,M
+Mid-level,Full-time,Data Engineering,65949,Remote,ES,M
+Mid-level,Full-time,Data Engineering,87932,Remote,GR,M
+Senior,Full-time,Machine Learning and AI,189650,In-person,US,M
+Senior,Full-time,Machine Learning and AI,164996,In-person,US,M
+Mid-level,Full-time,Data Analysis,43966,Remote,GR,M
+Mid-level,Full-time,Data Analysis,32974,Remote,GR,M
+Mid-level,Full-time,Data Engineering,98158,Remote,GB,M
+Mid-level,Full-time,Data Engineering,78526,Remote,GB,M
+Senior,Full-time,Data Scientist,215300,In-person,US,L
+Mid-level,Full-time,Data Engineering,76940,Remote,GR,M
+Senior,Full-time,Data Engineering,209100,Remote,US,L
+Senior,Full-time,Data Engineering,154600,Remote,US,L
+Senior,Full-time,Data Engineering,180000,Remote,US,M
+Entry-level,Full-time,Machine Learning and AI,21983,Remote,PT,L
+Senior,Full-time,Data Engineering,80000,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,78791,Remote,CA,M
+Executive,Full-time,Data Science and Research,196979,Hybrid,CA,L
+Mid-level,Full-time,Machine Learning and AI,120000,Remote,US,S
+Entry-level,Full-time,Computer Vision,125000,In-person,US,M
+Mid-level,Full-time,Machine Learning and AI,37236,Hybrid,US,L
+Senior,Full-time,Data Engineering,105000,Remote,US,M
+Senior,Full-time,Machine Learning and AI,87932,In-person,DE,M
+Mid-level,Full-time,BI and Visualization,18442,Remote,IN,M
+Mid-level,Full-time,Data Scientist,31615,Remote,IN,L
+Mid-level,Full-time,Machine Learning and AI,58255,Hybrid,PT,L
+Entry-level,Full-time,Data Analysis,100000,Hybrid,US,L
+Mid-level,Part-time,Data Engineering,54957,Hybrid,DE,L
+Entry-level,Full-time,Data Scientist,18442,Remote,IN,M
+Senior,Full-time,Data Science and Research,162674,Remote,DE,M
+Entry-level,Full-time,Data Engineering,120000,Remote,US,M
+Senior,Full-time,Data Science and Research,144000,Hybrid,US,L
+Senior,Full-time,Data Scientist,104890,Remote,US,M
+Senior,Full-time,Data Engineering,100000,Remote,US,M
+Senior,Full-time,Data Scientist,140000,Remote,US,M
+Mid-level,Full-time,Data Analysis,135000,Remote,US,M
+Mid-level,Full-time,Data Analysis,50000,Remote,US,M
+Senior,Full-time,Data Scientist,220000,Remote,US,M
+Senior,Full-time,Data Scientist,140000,Remote,US,M
+Mid-level,Full-time,Data Scientist,183228,In-person,GB,M
+Mid-level,Full-time,Data Scientist,91614,In-person,GB,M
+Senior,Full-time,Data Scientist,185100,Remote,US,M
+Senior,Full-time,Machine Learning and AI,220000,Remote,US,M
+Mid-level,Full-time,Data Scientist,200000,Remote,US,M
+Mid-level,Full-time,Data Scientist,120000,Remote,US,M
+Senior,Full-time,Machine Learning and AI,120000,Remote,AE,S
+Senior,Full-time,Machine Learning and AI,65000,Remote,AE,S
+Executive,Full-time,Data Engineering,216000,Remote,US,M
+Senior,Full-time,Data Engineering,210000,Remote,US,M
+Senior,Full-time,Machine Learning and AI,120000,Remote,US,M
+Senior,Full-time,Data Scientist,230000,Remote,US,M
+Entry-level,Part-time,Data Scientist,100000,Hybrid,DZ,M
+Mid-level,Freelance,Data Scientist,100000,Remote,US,M
+Entry-level,Contract,Machine Learning and AI,31875,Remote,CZ,M
+Senior,Full-time,Data Quality and Operations,200000,Remote,US,M
+Mid-level,Full-time,Data Analysis,75000,Remote,CA,S
+Mid-level,Full-time,Data Scientist,35590,Remote,PL,L
+Senior,Full-time,Machine Learning and AI,78791,Remote,CA,M
+Senior,Full-time,Data Scientist,100000,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,153000,Hybrid,US,M
+Entry-level,Full-time,Data Engineering,58035,Remote,DE,M
+Senior,Full-time,Data Scientist,165000,Remote,US,M
+Senior,Full-time,Data Science and Research,93427,Hybrid,FR,L
+Entry-level,Full-time,Data Scientist,52396,Remote,CA,L
+Senior,Full-time,Machine Learning and AI,62651,Remote,NL,L
+Mid-level,Full-time,Data Quality and Operations,32974,Remote,EE,S
+Entry-level,Full-time,Data Scientist,40000,Remote,MY,L
+Mid-level,Full-time,Machine Learning and AI,87425,Remote,AU,L
+Senior,Full-time,Data Engineering,115000,Remote,US,M
+Entry-level,Full-time,Data Scientist,86703,Hybrid,AU,M
+Mid-level,Full-time,Machine Learning and AI,75000,Remote,US,L
+Mid-level,Full-time,Data Science and Research,64849,In-person,AT,L
+Entry-level,Full-time,Data Science and Research,120000,Remote,US,L
+Mid-level,Full-time,Data Science and Research,157000,Remote,US,L
+Entry-level,Full-time,Computer Vision,150000,Remote,AU,S
+Mid-level,Full-time,BI and Visualization,70912,Hybrid,CA,L
+Entry-level,Full-time,Data Engineering,65000,Remote,US,S
+Senior,Full-time,Machine Learning and AI,71444,Remote,IE,S
+Entry-level,Full-time,Data Engineering,20000,In-person,PK,M
+Mid-level,Full-time,Data Scientist,48000,Remote,US,S
+Senior,Full-time,Leadership and Management,152500,Remote,US,M
+Mid-level,Full-time,Data Engineering,68147,Remote,FR,M
+Mid-level,Full-time,Data Scientist,122346,In-person,CH,L
+Mid-level,Full-time,Data Scientist,69336,Remote,CA,M
+Entry-level,Full-time,Computer Vision,10000,Remote,LU,M
+Mid-level,Full-time,Data Analysis,20000,Remote,GR,S
+Mid-level,Full-time,Data Scientist,135000,Remote,US,L
+Senior,Full-time,Data Science and Research,177000,Remote,US,L
+Mid-level,Full-time,Data Scientist,78000,Remote,US,M
+Senior,Full-time,Data Analysis,135000,Remote,US,M
+Senior,Full-time,Data Analysis,100000,Remote,US,M
+Senior,Full-time,Data Analysis,90320,Remote,US,M
+Mid-level,Full-time,Data Analysis,85000,In-person,CA,M
+Mid-level,Full-time,Data Analysis,75000,In-person,CA,M
+Senior,Full-time,Machine Learning and AI,214000,Remote,US,M
+Senior,Full-time,Machine Learning and AI,192600,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,266400,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,213120,Remote,US,M
+Senior,Full-time,Data Analysis,112900,Remote,US,M
+Senior,Full-time,Data Engineering,155000,Remote,US,M
+Mid-level,Full-time,Data Scientist,141300,In-person,US,M
+Mid-level,Full-time,Data Scientist,102100,In-person,US,M
+Senior,Full-time,Data Analysis,115934,Remote,US,M
+Senior,Full-time,Data Analysis,81666,Remote,US,M
+Mid-level,Full-time,Data Engineering,206699,In-person,US,M
+Mid-level,Full-time,Data Engineering,99100,In-person,US,M
+Senior,Full-time,Data Engineering,130000,Remote,US,M
+Senior,Full-time,Data Engineering,115000,Remote,US,M
+Senior,Full-time,Data Engineering,110500,Remote,US,M
+Senior,Full-time,Data Engineering,130000,Remote,US,M
+Senior,Full-time,Data Analysis,99050,Remote,US,M
+Senior,Full-time,Data Engineering,160000,Remote,US,M
+Senior,Full-time,Data Scientist,205300,In-person,US,L
+Senior,Full-time,Data Scientist,140400,In-person,US,L
+Senior,Full-time,Data Scientist,176000,Remote,US,M
+Senior,Full-time,Data Scientist,144000,Remote,US,M
+Senior,Full-time,Data Engineering,200100,Remote,US,M
+Senior,Full-time,Data Engineering,160000,Remote,US,M
+Senior,Full-time,Data Engineering,145000,Remote,US,M
+Senior,Full-time,Data Engineering,70500,In-person,US,M
+Senior,Full-time,Data Scientist,205300,In-person,US,M
+Senior,Full-time,Data Scientist,140400,In-person,US,M
+Senior,Full-time,Data Analysis,205300,In-person,US,M
+Senior,Full-time,Data Analysis,184700,In-person,US,M
+Senior,Full-time,Data Engineering,175100,Remote,US,M
+Senior,Full-time,Data Engineering,140250,Remote,US,M
+Senior,Full-time,Data Analysis,116150,Remote,US,M
+Senior,Full-time,Data Engineering,54000,In-person,US,M
+Senior,Full-time,Data Analysis,170000,Remote,US,M
+Mid-level,Full-time,Data Analysis,65438,In-person,GB,M
+Senior,Full-time,Data Analysis,80000,Remote,US,M
+Senior,Full-time,Data Scientist,140000,Remote,US,M
+Senior,Full-time,Data Scientist,210000,Remote,US,M
+Senior,Full-time,Data Scientist,140000,Remote,US,M
+Senior,Full-time,Data Analysis,100000,Remote,US,M
+Senior,Full-time,Data Analysis,69000,Remote,US,M
+Senior,Full-time,Data Scientist,210000,Remote,US,M
+Senior,Full-time,Data Scientist,140000,Remote,US,M
+Senior,Full-time,Data Scientist,210000,Remote,US,M
+Senior,Full-time,Data Analysis,150075,Remote,US,M
+Senior,Full-time,Data Engineering,100000,Remote,US,M
+Senior,Full-time,Data Engineering,25000,Remote,US,M
+Senior,Full-time,Data Analysis,126500,Remote,US,M
+Senior,Full-time,Data Analysis,106260,Remote,US,M
+Senior,Full-time,Data Engineering,220110,Remote,US,M
+Senior,Full-time,Data Engineering,160080,Remote,US,M
+Senior,Full-time,Data Analysis,105000,Remote,US,M
+Senior,Full-time,Data Analysis,110925,Remote,US,M
+Mid-level,Full-time,Data Analysis,45807,In-person,GB,M
+Senior,Full-time,Data Scientist,140000,Remote,US,M
+Senior,Full-time,Data Analysis,99000,In-person,US,M
+Senior,Full-time,Data Analysis,60000,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,192564,Remote,US,M
+Senior,Full-time,Data Architecture and Modeling,144854,Remote,US,M
+Senior,Full-time,Data Scientist,230000,Remote,US,M
+Senior,Full-time,Data Scientist,150000,Remote,US,M
+Senior,Full-time,Leadership and Management,150260,Remote,US,M
+Senior,Full-time,Leadership and Management,109280,Remote,US,M
+Senior,Full-time,Data Scientist,210000,Remote,US,M
+Senior,Full-time,Data Analysis,170000,Remote,US,M
+Mid-level,Full-time,Data Scientist,160000,Remote,US,M
+Mid-level,Full-time,Data Scientist,130000,Remote,US,M
+Entry-level,Full-time,Data Analysis,67000,In-person,CA,M
+Entry-level,Full-time,Data Analysis,52000,In-person,CA,M
+Senior,Full-time,Data Engineering,154000,Remote,US,M
+Senior,Full-time,Data Engineering,126000,Remote,US,M
+Senior,Full-time,Data Analysis,129000,In-person,US,M
+Senior,Full-time,Data Analysis,150000,Remote,US,M
+Mid-level,Full-time,Machine Learning and AI,200000,Remote,US,L
