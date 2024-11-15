@@ -22,7 +22,7 @@ What is the correlation between the average runtime of movies and the passage of
 
 ***
 
-[**Project 2: Analyze A/B Test Results**](https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/tree/main/Project%202_%20AB%20Testing)
+[**Project 2: Analyze A/B Test Results**](https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202_%20AB%20Testing/Analyze_ab_test_results_notebook_new.ipynb)
 
 For this project, we will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product.
 
