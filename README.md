@@ -43,7 +43,7 @@ You will retrieve and extract the data, assess the data programmatically and vis
 
 ***
 
-**Project 5: Machine Learning**
+[**Project 5: Data Modeling with Postgres**]
 
 ***
 
