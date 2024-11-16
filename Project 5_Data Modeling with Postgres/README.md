@@ -19,26 +19,12 @@ The following applies in this project:
 
 ## Requirements
 
-This project was done on a Linux-OS ([Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop)) with the source-code editor [Visual Studio Code](https://code.visualstudio.com/).
 
 To implement the project you will need the following things:
 - Python
 - PostgreSQL
 - Jupyter
 
-When importing two modules I ran into problems that I want to briefly explain here:
-- the module `psycopg2` that is used in the notebook `etl.ipynb`
-  - I had to install `psycopg2-binary`
-  
-  ```bash
-  pip install psycopg2-binary
-  ```
-- the module `sql` that is used in the notebook `test.ipynb`
-  - I had to install `ipython-sql`
-
-  ```bash
-  pip install ipython-sql
-  ```
 
 ## Project Datasets 
 
