@@ -43,7 +43,7 @@ You will retrieve and extract the data, assess the data programmatically and vis
 
 ***
 
-**Project 5: Data Modeling with Postgres**
+[**Project 5: Data Modeling with Postgres**](https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/blob/main/Project%205_Data%20Modeling%20with%20Postgres/etl.ipynb)
 
 
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
