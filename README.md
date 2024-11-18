@@ -60,7 +60,7 @@ In this project, you'll apply what you've learned on data modeling with Postgres
 
 The goal in this project is to create visualizations and Dashboards in Tableau to reveal insights from a data set. You will create data visualizations that tell a story or highlight patterns in the data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
-### Poject 7: Machine Learning_ Supervised and Unsupervised Learning
+**Poject 7: Machine Learning_ Supervised and Unsupervised Learning**
 
 This project is designed to get you acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
