@@ -86,3 +86,22 @@ The unsupervised learning branch of machine learning is key in the organization 
 
 In addition, the dataset presented in this project requires a number of assessment and cleaning steps before you can apply your machine learning methods. In workplace contexts, you will frequently need to work with data that is untidy or needs preprocessing before standard algorithms and models can be applied. The ability to perform data wrangling and the ability to make decisions on data that you work with are both valuable skills that you will practice in this project.
 
+[**Project 9: Machine Learning DevOps_Building a Pipeline]
+
+You are working for a property management company renting rooms and properties for short periods of time on various platforms. You need to estimate the typical price for a given property based on the price of similar properties. Your company receives new data in bulk every week. The model needs to be retrained with the same cadence, necessitating an end-to-end pipeline that can be reused.
+
+In this project, you will build a pipeline
+
+[**Project 10: Maching Learning DevOps_Develop a Classification Model]
+
+In this project, you will develop a classification model on publicly available Census Bureau data. You will also write code to monitor the model performance on various data slices. Then, you will deploy your model using the FastAPI package.
+
+Here is an overview of the project steps:
+
+  * Set up GitHub Action
+  * Understand the data
+  * Build a machine learning model
+  * Construct a machine learning pipeline
+  * Unit test the model
+  * Create a RESTful API
+  * Push the changes to the GitHub repo
