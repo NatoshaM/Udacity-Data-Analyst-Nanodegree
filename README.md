@@ -62,7 +62,7 @@ The goal in this project is to create visualizations and Dashboards in Tableau t
 
 ***
 
-**Poject 7: Machine Learning_ Supervised Learning**
+[**Poject 7: Machine Learning_ Supervised Learning**](https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/blob/main/Project_7%20Machine%20Learning_%20Supervised%20Learning/finding_donors.ipynb)
 
 This project is designed to get you acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
 
@@ -79,7 +79,7 @@ CharityML is a fictitious charity organization located in the heart of Silicon V
 
 ***
 
-**Project 8: Machine Learning_Unsupervised Learning**(https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/blob/main/Project_8%20Machine%20Learning_Unsupervised%20Learning/Identify_Customer_Segments%20.ipynb)
+[**Project 8: Machine Learning_Unsupervised Learning**](https://github.com/NatoshaM/Udacity-Data-Analyst-Nanodegree/blob/main/Project_8%20Machine%20Learning_Unsupervised%20Learning/Identify_Customer_Segments%20.ipynb)
 
 
 The unsupervised learning branch of machine learning is key in the organization of large and complex datasets. While unsupervised learning lies in contrast to supervised learning in the fact that unsupervised learning lacks objective output classes or values, it can still be important in converting the data into a form that can be used in a supervised learning task. Dimensionality reduction techniques can help surface the main signals and associations in your data, providing supervised learning techniques a more focused set of features upon which to apply for their work. Clustering techniques are useful for understanding how the data points themselves are organized. These clusters might themselves be a useful feature in a directed supervised learning task. This project will give you hands-on experience with a real-life task that makes use of these techniques, focusing on the unsupervised work that goes into understanding a dataset.
